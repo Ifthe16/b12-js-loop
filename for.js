@@ -16,6 +16,8 @@ for (let num = 0; num < 5; num++) {
 }
 
 // infinity loop
+/* 
 for (let i = 0; i < 5; i) {
     console.log(i);
-}
+} 
+*/
